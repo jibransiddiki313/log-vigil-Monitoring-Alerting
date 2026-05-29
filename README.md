@@ -1,11 +1,11 @@
 # 🔍 LogVigil – Centralized Logging & Monitoring for Microservices
 
-![Docker](https://img.shields.io/badge/Docker-20.10+-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)
-![Prometheus](https://img.shields.io/badge/Prometheus-2.45+-orange)
-![Grafana](https://img.shields.io/badge/Grafana-10.0+-yellow)
-![AWS](https://img.shields.io/badge/AWS-EC2-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![Docker](https://img.shields.io/static/v1?label=Docker&message=20.10+&color=blue)
+![FastAPI](https://img.shields.io/static/v1?label=FastAPI&message=0.100+&color=green)
+![Prometheus](https://img.shields.io/static/v1?label=Prometheus&message=2.45+&color=orange)
+![Grafana](https://img.shields.io/static/v1?label=Grafana&message=10.0+&color=yellow)
+![AWS](https://img.shields.io/static/v1?label=AWS&message=EC2&color=orange)
+![License](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
 
 ## 📌 Problem Statement
 
