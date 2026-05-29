@@ -4,7 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green)
 ![Prometheus](https://img.shields.io/badge/Prometheus-2.45+-orange)
 ![Grafana](https://img.shields.io/badge/Grafana-10.0+-yellow)
-![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange)
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📌 Problem Statement
