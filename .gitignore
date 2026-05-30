@@ -1,4 +1,4 @@
-# Python
+
 __pycache__/
 *.py[cod]
 *.so
@@ -7,17 +7,17 @@ env/
 venv/
 .env
 
-# Docker
+
 *.log
 
-# IDE
+
 .vscode/
 .idea/
 
-# OS
+
 .DS_Store
 Thumbs.db
 
-# Secrets 
+ 
 *.pem
 *.key
